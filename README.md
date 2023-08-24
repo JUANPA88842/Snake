@@ -33,7 +33,7 @@ Build the Snake Game using data structures such as queues, stacks, dynamic array
 ### Built with
 
 - Python 3.10.6
-- [Turtle]([https://reactjs.org/](https://docs.python.org/3/library/turtle.html)) - Python library
+- [Turtle](https://docs.python.org/3/library/turtle.html) - Python library
 
 
 ### What I learned
